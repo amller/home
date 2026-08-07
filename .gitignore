@@ -1,0 +1,21 @@
+# Ignorance is the default
+*
+
+# Keep this
+!.gitignore
+!.gitman
+
+# Files managed via git
+!.bash_aliases
+!.bash_logout
+!.bashrc
+!.config/
+!.config/mozilla/
+!.config/mozilla/firefox/
+!.config/mozilla/firefox/rqdd5h6w.default-release/
+!.config/mozilla/firefox/rqdd5h6w.default-release/user.js
+!.config/wireplumber/
+!.config/wireplumber/wireplumber.conf.d/
+!.config/wireplumber/wireplumber.conf.d/51-wavexlr.conf
+!.gitconfig
+!.vimrc
