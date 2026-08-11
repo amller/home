@@ -4,7 +4,7 @@
 
 # shell
 alias cd="pushd 1>/dev/null"
-alias ls="ls -l --all --group-directories-first --human-readable --color=auto --indicator-style=slash --time-style=\"+%y-%m-%d %H:%M\""
+alias ls="ls -l --all --group-directories-first --human-readable --color=auto --time-style=\"+%y-%m-%d %H:%M\""
 alias grep="grep --color=auto"
 
 # top
