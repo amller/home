@@ -13,6 +13,7 @@
 !.config/mozilla/
 !.config/mozilla/firefox/
 !.config/mozilla/firefox/rqdd5h6w.default-release/
+!.config/mozilla/firefox/rqdd5h6w.default-release/customKeys.json
 !.config/mozilla/firefox/rqdd5h6w.default-release/user.js
 !.config/wireplumber/
 !.config/wireplumber/wireplumber.conf.d/
