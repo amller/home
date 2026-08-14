@@ -23,12 +23,7 @@ export SUDO_EDITOR="vim"
 alias sudo="sudo "
 
 # read aliases from ~/.bash_aliases
-if [ -f ~/.bash_aliases ]; then
-	. ~/.bash_aliases
-fi
+test -f ~/.bash_aliases && . ~/.bash_aliases
 
 # add gitman
-if [ -f ~/.gitman ]; then
-        . ~/.gitman
-fi
-
+test -f ~/.gitman && . ~/.gitman
